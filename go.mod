@@ -1,4 +1,4 @@
-module go-redis
+module github.com/abhishekprakash256/go-redis-helper-kit
 
 go 1.24.4
 
