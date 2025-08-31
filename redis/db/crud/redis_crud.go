@@ -14,7 +14,7 @@ import (
 	"time"
 	"strconv"
 	"github.com/redis/go-redis/v9"
-	"go-redis/config"
+	"github.com/abhishekprakash256/go-redis-helper-kit/config"
 	"fmt"
 )
 
