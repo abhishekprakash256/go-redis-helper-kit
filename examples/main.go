@@ -12,9 +12,9 @@ import (
 	"time"
 	"log"
 
-	"github.com/abhishekprakash256/go-redis/config" 
-	"github.com/abhishekprakash256/go-redis/redis/db/connection"
-	"github.com/abhishekprakash256/go-redis/redis/db/crud"
+	"github.com/abhishekprakash256/go-redis-helper-kit/config"
+	"github.com/abhishekprakash256/go-redis-helper-kit/redis/db/connection"
+	"github.com/abhishekprakash256/go-redis-helper-kit/redis/db/crud"
 
 )
 
